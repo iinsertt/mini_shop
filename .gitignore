@@ -1,0 +1,17 @@
+.idea/
+
+.env
+*.env
+
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+postgres_data/
+grafana_data/
+data/
+
+*.log
+
+.DS_Store
